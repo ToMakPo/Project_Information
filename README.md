@@ -1,2 +1,2 @@
-# Project_Information
+# Project Information
 Detailed information about all of my projects.
